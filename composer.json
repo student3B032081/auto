@@ -1,7 +1,10 @@
 {
     "name": "user/auto",
 
+<<<<<<< HEAD
    
+=======
+>>>>>>> 844055a (練習4)
     "authors": [
         {
             "name": "student3B032081",
@@ -9,8 +12,13 @@
         }
     ],
     "require": {
+<<<<<<< HEAD
         "monolog/monolog": "^3.8",
         "nesbot/carbon": "^3.7"
+=======
+        "nestbot/carbon": "^3.7",
+        "monolog/monolog": "^3.8"
+>>>>>>> 844055a (練習4)
     },
     "autoload": {
         "psr-4": {
