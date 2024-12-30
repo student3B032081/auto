@@ -1,0 +1,21 @@
+{
+    "name": "user/auto",
+    "autoload": {
+        "psr-4": {
+            "User\\Auto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "student3B032081",
+            "email": "3b032081@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+}
+
